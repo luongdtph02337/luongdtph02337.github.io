@@ -24,9 +24,11 @@ h1{
 }
 .tex1:visited{
 	color: gray;
-}.tex1:hover{
+}
+.tex1:hover{
 	color: orange;
-}.tex1:active{
+}
+.tex1:active{
 	color: black;
 }
 .img1:hover{
