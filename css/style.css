@@ -1,0 +1,43 @@
+h1{
+	color: green;
+	font-size: 36px;
+	text-align: center;
+}
+.ds{
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+.img1{
+	max-width: 20%;
+
+}
+.img2{
+	max-width: 500px;
+}
+.tex1{
+	font-weight: bold;
+
+}
+.tex1:link{
+	color: black;
+}
+.tex1:visited{
+	color: gray;
+}.tex1:hover{
+	color: orange;
+}.tex1:active{
+	color: black;
+}
+.img1:hover{
+	border: 3px;
+	border-style: solid;
+	border-color: red;
+	border-radius: 50%;
+}
+.img2:hover{
+	border: 3px;
+	border-style: solid;
+	border-color: red;
+	border-radius: 50%;
+}
